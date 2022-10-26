@@ -1,3 +1,4 @@
+
 # Hello-World Microverse project.
 
 in this PR:
@@ -11,7 +12,7 @@ I am creating the Hello microverse project for the first time which have HTM and
 
 ### AUthors.
 
-JOsue iradukunda, 
+Josue iradukunda, 
 
 ## Thanks for your review.
 
