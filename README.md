@@ -1,9 +1,19 @@
-# Hello-World
 
-Hello Microverse project
+# Hello-World Microverse project.
 
-## built with
+in this PR:
+I am creating the Hello microverse project for the first time which have HTM and CSS files and also linters settings.
+
+## built with:
 
 -HTML.
 
 -CSS.
+
+### AUthors.
+
+Josue iradukunda, 
+
+## Thanks for your review.
+
+
